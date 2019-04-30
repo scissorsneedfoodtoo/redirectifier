@@ -1,0 +1,187 @@
+[
+    {
+        "challengeName": "Global vs. Local Scope in Functions",
+        "productionPath": "/javascript-algorithms-and-data-structures/basic-javascript/global-vs--local-scope-in-functions",
+        "masterPath": "/learn/javascript-algorithms-and-data-structures/basic-javascript/global-vs.-local-scope-in-functions"
+    },
+    {
+        "challengeName": "Iterate with JavaScript Do...While Loops",
+        "productionPath": "/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do---while-loops",
+        "masterPath": "/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do...while-loops"
+    },
+    {
+        "challengeName": " Iterate Through the Keys of an Object with a for...in Statement",
+        "productionPath": "/javascript-algorithms-and-data-structures/basic-data-structures/-iterate-through-the-keys-of-an-object-with-a-for---in-statement",
+        "masterPath": "/learn/javascript-algorithms-and-data-structures/basic-data-structures/-iterate-through-the-keys-of-an-object-with-a-for...in-statement"
+    },
+    {
+        "challengeName": "Generate an Array of All Object Keys with Object.keys()",
+        "productionPath": "/javascript-algorithms-and-data-structures/basic-data-structures/generate-an-array-of-all-object-keys-with-object-keys",
+        "masterPath": "/learn/javascript-algorithms-and-data-structures/basic-data-structures/generate-an-array-of-all-object-keys-with-object.keys"
+    },
+    {
+        "challengeName": "Access Props Using this.props",
+        "productionPath": "/front-end-libraries/react/access-props-using-this-props",
+        "masterPath": "/learn/front-end-libraries/react/access-props-using-this.props"
+    },
+    {
+        "challengeName": "Set State with this.setState",
+        "productionPath": "/front-end-libraries/react/set-state-with-this-setstate",
+        "masterPath": "/learn/front-end-libraries/react/set-state-with-this.setstate"
+    },
+    {
+        "challengeName": "Use Array.map() to Dynamically Render Elements",
+        "productionPath": "/front-end-libraries/react/use-array-map-to-dynamically-render-elements",
+        "masterPath": "/learn/front-end-libraries/react/use-array.map-to-dynamically-render-elements"
+    },
+    {
+        "challengeName": "Use Array.filter() to Dynamically Filter an Array",
+        "productionPath": "/front-end-libraries/react/use-array-filter-to-dynamically-filter-an-array",
+        "masterPath": "/learn/front-end-libraries/react/use-array.filter-to-dynamically-filter-an-array"
+    },
+    {
+        "challengeName": "Copy an Object with Object.assign",
+        "productionPath": "/front-end-libraries/redux/copy-an-object-with-object-assign",
+        "masterPath": "/learn/front-end-libraries/redux/copy-an-object-with-object.assign"
+    },
+    {
+        "challengeName": "Use the d3.max and d3.min Functions to Find Minimum and Maximum Values in a Dataset",
+        "productionPath": "/data-visualization/data-visualization-with-d3/use-the-d3-max-and-d3-min-functions-to-find-minimum-and-maximum-values-in-a-dataset",
+        "masterPath": "/learn/data-visualization/data-visualization-with-d3/use-the-d3.max-and-d3.min-functions-to-find-minimum-and-maximum-values-in-a-dataset"
+    },
+    {
+        "challengeName": "How to Use package.json, the Core of Any Node.js Project or npm Package",
+        "productionPath": "/apis-and-microservices/managing-packages-with-npm/how-to-use-package-json-the-core-of-any-node-js-project-or-npm-package",
+        "masterPath": "/learn/apis-and-microservices/managing-packages-with-npm/how-to-use-package.json-the-core-of-any-node.js-project-or-npm-package"
+    },
+    {
+        "challengeName": "Add a Description to Your package.json",
+        "productionPath": "/apis-and-microservices/managing-packages-with-npm/add-a-description-to-your-package-json",
+        "masterPath": "/learn/apis-and-microservices/managing-packages-with-npm/add-a-description-to-your-package.json"
+    },
+    {
+        "challengeName": "Add Keywords to Your package.json",
+        "productionPath": "/apis-and-microservices/managing-packages-with-npm/add-keywords-to-your-package-json",
+        "masterPath": "/learn/apis-and-microservices/managing-packages-with-npm/add-keywords-to-your-package.json"
+    },
+    {
+        "challengeName": "Add a License to Your package.json",
+        "productionPath": "/apis-and-microservices/managing-packages-with-npm/add-a-license-to-your-package-json",
+        "masterPath": "/learn/apis-and-microservices/managing-packages-with-npm/add-a-license-to-your-package.json"
+    },
+    {
+        "challengeName": "Add a Version to Your package.json",
+        "productionPath": "/apis-and-microservices/managing-packages-with-npm/add-a-version-to-your-package-json",
+        "masterPath": "/learn/apis-and-microservices/managing-packages-with-npm/add-a-version-to-your-package.json"
+    },
+    {
+        "challengeName": "Use the .env File",
+        "productionPath": "/apis-and-microservices/basic-node-and-express/use-the--env-file",
+        "masterPath": "/learn/apis-and-microservices/basic-node-and-express/use-the-.env-file"
+    },
+    {
+        "challengeName": "Create Many Records with model.create()",
+        "productionPath": "/apis-and-microservices/mongodb-and-mongoose/create-many-records-with-model-create",
+        "masterPath": "/learn/apis-and-microservices/mongodb-and-mongoose/create-many-records-with-model.create"
+    },
+    {
+        "challengeName": "Use model.find() to Search Your Database",
+        "productionPath": "/apis-and-microservices/mongodb-and-mongoose/use-model-find-to-search-your-database",
+        "masterPath": "/learn/apis-and-microservices/mongodb-and-mongoose/use-model.find-to-search-your-database"
+    },
+    {
+        "challengeName": "Use model.findOne() to Return a Single Matching Document from Your Database",
+        "productionPath": "/apis-and-microservices/mongodb-and-mongoose/use-model-findone-to-return-a-single-matching-document-from-your-database",
+        "masterPath": "/learn/apis-and-microservices/mongodb-and-mongoose/use-model.findone-to-return-a-single-matching-document-from-your-database"
+    },
+    {
+        "challengeName": "Use model.findById() to Search Your Database By _id",
+        "productionPath": "/apis-and-microservices/mongodb-and-mongoose/use-model-findbyid-to-search-your-database-by-id",
+        "masterPath": "/learn/apis-and-microservices/mongodb-and-mongoose/use-model.findbyid-to-search-your-database-by-id"
+    },
+    {
+        "challengeName": "Perform New Updates on a Document Using model.findOneAndUpdate()",
+        "productionPath": "/apis-and-microservices/mongodb-and-mongoose/perform-new-updates-on-a-document-using-model-findoneandupdate",
+        "masterPath": "/learn/apis-and-microservices/mongodb-and-mongoose/perform-new-updates-on-a-document-using-model.findoneandupdate"
+    },
+    {
+        "challengeName": "Delete One Document Using model.findByIdAndRemove",
+        "productionPath": "/apis-and-microservices/mongodb-and-mongoose/delete-one-document-using-model-findbyidandremove",
+        "masterPath": "/learn/apis-and-microservices/mongodb-and-mongoose/delete-one-document-using-model.findbyidandremove"
+    },
+    {
+        "challengeName": "Delete Many Documents with model.remove()",
+        "productionPath": "/apis-and-microservices/mongodb-and-mongoose/delete-many-documents-with-model-remove",
+        "masterPath": "/learn/apis-and-microservices/mongodb-and-mongoose/delete-many-documents-with-model.remove"
+    },
+    {
+        "challengeName": "Hide Potentially Dangerous Information Using helmet.hidePoweredBy()",
+        "productionPath": "/information-security-and-quality-assurance/information-security-with-helmetjs/hide-potentially-dangerous-information-using-helmet-hidepoweredby",
+        "masterPath": "/learn/information-security-and-quality-assurance/information-security-with-helmetjs/hide-potentially-dangerous-information-using-helmet.hidepoweredby"
+    },
+    {
+        "challengeName": "Mitigate the Risk of Clickjacking with helmet.frameguard()",
+        "productionPath": "/information-security-and-quality-assurance/information-security-with-helmetjs/mitigate-the-risk-of-clickjacking-with-helmet-frameguard",
+        "masterPath": "/learn/information-security-and-quality-assurance/information-security-with-helmetjs/mitigate-the-risk-of-clickjacking-with-helmet.frameguard"
+    },
+    {
+        "challengeName": "Mitigate the Risk of Cross Site Scripting (XSS) Attacks with helmet.xssFilter()",
+        "productionPath": "/information-security-and-quality-assurance/information-security-with-helmetjs/mitigate-the-risk-of-cross-site-scripting-xss-attacks-with-helmet-xssfilter",
+        "masterPath": "/learn/information-security-and-quality-assurance/information-security-with-helmetjs/mitigate-the-risk-of-cross-site-scripting-xss-attacks-with-helmet.xssfilter"
+    },
+    {
+        "challengeName": "Avoid Inferring the Response MIME Type with helmet.noSniff()",
+        "productionPath": "/information-security-and-quality-assurance/information-security-with-helmetjs/avoid-inferring-the-response-mime-type-with-helmet-nosniff",
+        "masterPath": "/learn/information-security-and-quality-assurance/information-security-with-helmetjs/avoid-inferring-the-response-mime-type-with-helmet.nosniff"
+    },
+    {
+        "challengeName": "Prevent IE from Opening Untrusted HTML with helmet.ieNoOpen()",
+        "productionPath": "/information-security-and-quality-assurance/information-security-with-helmetjs/prevent-ie-from-opening-untrusted-html-with-helmet-ienoopen",
+        "masterPath": "/learn/information-security-and-quality-assurance/information-security-with-helmetjs/prevent-ie-from-opening-untrusted-html-with-helmet.ienoopen"
+    },
+    {
+        "challengeName": "Ask Browsers to Access Your Site via HTTPS Only with helmet.hsts()",
+        "productionPath": "/information-security-and-quality-assurance/information-security-with-helmetjs/ask-browsers-to-access-your-site-via-https-only-with-helmet-hsts",
+        "masterPath": "/learn/information-security-and-quality-assurance/information-security-with-helmetjs/ask-browsers-to-access-your-site-via-https-only-with-helmet.hsts"
+    },
+    {
+        "challengeName": "Disable DNS Prefetching with helmet.dnsPrefetchControl()",
+        "productionPath": "/information-security-and-quality-assurance/information-security-with-helmetjs/disable-dns-prefetching-with-helmet-dnsprefetchcontrol",
+        "masterPath": "/learn/information-security-and-quality-assurance/information-security-with-helmetjs/disable-dns-prefetching-with-helmet.dnsprefetchcontrol"
+    },
+    {
+        "challengeName": "Disable Client-Side Caching with helmet.noCache()",
+        "productionPath": "/information-security-and-quality-assurance/information-security-with-helmetjs/disable-client-side-caching-with-helmet-nocache",
+        "masterPath": "/learn/information-security-and-quality-assurance/information-security-with-helmetjs/disable-client-side-caching-with-helmet.nocache"
+    },
+    {
+        "challengeName": "Set a Content Security Policy with helmet.contentSecurityPolicy()",
+        "productionPath": "/information-security-and-quality-assurance/information-security-with-helmetjs/set-a-content-security-policy-with-helmet-contentsecuritypolicy",
+        "masterPath": "/learn/information-security-and-quality-assurance/information-security-with-helmetjs/set-a-content-security-policy-with-helmet.contentsecuritypolicy"
+    },
+    {
+        "challengeName": "Use Assert.isOK and Assert.isNotOK",
+        "productionPath": "/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/use-assert-isok-and-assert-isnotok",
+        "masterPath": "/learn/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/use-assert.isok-and-assert.isnotok"
+    },
+    {
+        "challengeName": "Assert Deep Equality with .deepEqual and .notDeepEqual",
+        "productionPath": "/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/assert-deep-equality-with--deepequal-and--notdeepequal",
+        "masterPath": "/learn/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/assert-deep-equality-with-.deepequal-and-.notdeepequal"
+    },
+    {
+        "challengeName": "Authentication with Socket.IO",
+        "productionPath": "/information-security-and-quality-assurance/advanced-node-and-express/authentication-with-socket-io",
+        "masterPath": "/learn/information-security-and-quality-assurance/advanced-node-and-express/authentication-with-socket.io"
+    },
+    {
+        "challengeName": "Use .has and .size on an ES6 Set",
+        "productionPath": "/coding-interview-prep/data-structures/use--has-and--size-on-an-es6-set",
+        "masterPath": "/learn/coding-interview-prep/data-structures/use-.has-and-.size-on-an-es6-set"
+    },
+    {
+        "challengeName": "Problem 174: Counting the number of 'hollow' square laminae that can form one, two, three, ... distinct arrangements",
+        "productionPath": "/coding-interview-prep/project-euler/problem-174-counting-the-number-of-hollow-square-laminae-that-can-form-one-two-three-----distinct-arrangements",
+        "masterPath": "/learn/coding-interview-prep/project-euler/problem-174-counting-the-number-of-hollow-square-laminae-that-can-form-one-two-three-...-distinct-arrangements"
+    }
+]

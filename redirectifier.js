@@ -18,7 +18,7 @@ function masterDasherize(name) {
     .replace(/:/g, '');
 };
 
-const problemURLs = productionChallenges.reduce((acc, curr, i) => {
+const problemChallenges = productionChallenges.reduce((acc, curr, i) => {
   // learnDasherize and masterDasherize treat the certificate and section strings the same way, so dash them when possible
   const dashedCert = masterDasherize(curr.certificate);
 
@@ -33,8 +33,8 @@ const problemURLs = productionChallenges.reduce((acc, curr, i) => {
 
         const output = {
           challengeName: challenge,
-          productionURL: `/${dashedCert}/${dashedSection}/${learnDashedName}`,
-          masterURL: `/learn/${dashedCert}/${dashedSection}/${masterDashedName}`
+          productionPath: `/${dashedCert}/${dashedSection}/${learnDashedName}`,
+          masterPath: `/learn/${dashedCert}/${dashedSection}/${masterDashedName}`
         };
 
         acc.push(output);
@@ -45,7 +45,7 @@ const problemURLs = productionChallenges.reduce((acc, curr, i) => {
   return acc;
 }, []);
 
-fs.writeFile('problem-urls.json', JSON.stringify(problemURLs), (err) => {
+fs.writeFile('problem-challenges.json', JSON.stringify(problemChallenges), (err) => {
   if (err) console.log(err);
 
   console.log("File saved");
